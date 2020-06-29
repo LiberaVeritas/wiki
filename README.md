@@ -1,2 +1,4 @@
 # wiki
-Personal Wiki
+My Personal Wiki
+
+https://liberaveritas.github.io/wiki/
